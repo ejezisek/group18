@@ -1,4 +1,6 @@
-package com.example.tankwars;
+package com.group18.tankwars;
+
+import com.example.tankwars.R;
 
 import android.os.Bundle;
 import android.app.Activity;
