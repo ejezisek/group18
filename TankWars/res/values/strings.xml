@@ -2,7 +2,14 @@
 <resources>
 
     <string name="app_name">TankWars</string>
-    <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
+    <string name="sw720dp_port">layout-sw720dp-port</string>
+    <string name="sw720dp_land">layout-sw720dp-land</string>
+    <string name="sw600dp_land">layout-sw600dp-land</string>
+    <string name="sw600dp_port">layout-sw600dp-port</string>
+    <string name="sw480dp_land">layout-sw480dp-land</string>
+    <string name="sw480dp_port">layout-sw480dp-port</string>
+    <string name="sw320dp_port">layout-sw320dp-port</string>
+    <string name="sw320dp_land">layout-sw320dp-land</string>
 
 </resources>

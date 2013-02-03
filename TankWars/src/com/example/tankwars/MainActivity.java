@@ -1,4 +1,4 @@
-package com.group18.tankwars;
+package com.example.tankwars;
 
 import com.example.tankwars.R;
 
