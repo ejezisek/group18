@@ -18,6 +18,7 @@
 
     <ImageView
         android:id="@+id/downArrow"
+        android:contentDescription="@string/downArrow"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
@@ -30,6 +31,7 @@
 
     <ImageView
         android:id="@+id/rightArrow"
+        android:contentDescription="@string/rightArrow"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_above="@+id/downArrow"
@@ -42,6 +44,7 @@
 
     <ImageView
         android:id="@+id/leftArrow"
+        android:contentDescription="@string/leftArrow"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_above="@+id/downArrow"
@@ -54,6 +57,7 @@
 
     <ImageView
         android:id="@+id/imageView1"
+        android:contentDescription="@string/fireButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_above="@+id/downArrow"
@@ -66,6 +70,7 @@
 
     <ImageView
         android:id="@+id/upArrow"
+        android:contentDescription="@string/upArrow"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_above="@+id/rightArrow"
